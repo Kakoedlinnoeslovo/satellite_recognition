@@ -17,7 +17,9 @@
 ![Alt text](train_cropped/555.jpg?raw=true "Title")
 
 ![Alt text](main.jpg?raw=true "What's up")
-green - target, blue - prediction 
+## green - target, blue - prediction
+## precision = 1.0
+## f1_score = 0.99734
 
 ![Alt text](train_cropped/5.jpg?raw=true "Title")
 ![Alt text](train_cropped/13.jpg?raw=true "Title")
