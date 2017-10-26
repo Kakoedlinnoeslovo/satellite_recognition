@@ -29,7 +29,7 @@ green - target, blue - prediction
 ![Alt text](train_cropped/44.jpg?raw=true "Title")
 ![Alt text](train_cropped/29.jpg?raw=true "Title")
 ![Alt text](train_cropped/229.jpg?raw=true "Title")
-![Alt text](train_cropped/96.jpg?raw=true "Title")
+![Alt text](train_cropped/90.jpg?raw=true "Title")
 ![Alt text](train_cropped/25.jpg?raw=true "Title")
 ![Alt text](train_cropped/95.jpg?raw=true "Title")
 
