@@ -15,8 +15,8 @@
 ![Alt text](train_cropped/5.jpg?raw=true "Title")
 ![Alt text](train_cropped/19.jpg?raw=true "Title")
 ![Alt text](train_cropped/555.jpg?raw=true "Title")
-![Alt text](train_cropped/556.jpg?raw=true "Title")
-![Alt text](train_cropped/557.jpg?raw=true "Title")
+![Alt text](train_cropped/91.jpg?raw=true "Title")
+![Alt text](train_cropped/90.jpg?raw=true "Title")
 ![Alt text](train_cropped/558.jpg?raw=true "Title")
 
 ![Alt text](main.jpg?raw=true "What's up")
@@ -34,10 +34,10 @@ green - target, blue - prediction
 ![Alt text](train_cropped/229.jpg?raw=true "Title")
 ![Alt text](train_cropped/6.jpg?raw=true "Title")
 ![Alt text](train_cropped/25.jpg?raw=true "Title")
-![Alt text](train_cropped/556.jpg?raw=true "Title")
-![Alt text](train_cropped/557.jpg?raw=true "Title")
-![Alt text](train_cropped/558.jpg?raw=true "Title")
-![Alt text](train_cropped/559.jpg?raw=true "Title")
+![Alt text](train_cropped/95.jpg?raw=true "Title")
+![Alt text](train_cropped/96.jpg?raw=true "Title")
+![Alt text](train_cropped/97.jpg?raw=true "Title")
+![Alt text](train_cropped/98.jpg?raw=true "Title")
 
 
 
