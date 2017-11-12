@@ -32,9 +32,6 @@
 ![Alt text](train_cropped/25.jpg?raw=true "Title")
 ![Alt text](train_cropped/95.jpg?raw=true "Title")
 
-### green - target, blue - prediction
-### precision = 1.0
-### f1_score = 0.99734
 
 
 
